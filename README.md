@@ -2,6 +2,8 @@
 
 Firstly let's get to know data.  
 
+This information is scraped from the Google Play Store. This app information would not be available without it.
+
 - 1) App :- Name of the App
 - 2) Category :- Category under which the App falls.
 - 3) Rating :- Application's rating on playstore
@@ -15,3 +17,6 @@ Firstly let's get to know data.
 - 11) Last Updated :- Date when the App was last updated
 - 12) Current Ver :- Current Version of the Application
 - 13) Android Ver :- Minimum Android Version required to run the App
+
+
+The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
